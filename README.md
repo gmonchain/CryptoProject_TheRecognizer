@@ -14,7 +14,7 @@ Farcaster communities thrive on valuable contributions, yet effectively identify
       <img src="Banner/image-1.png" alt="Screenshot 1" style="width:100%;">
     </td>
     <td style="width:50%; text-align:center;">
-      <img src="Banner/Banner.png" alt="Screenshot 2" style="width:60%;">
+      <img src="Banner/Banner.png" alt="Screenshot 2" style="width:100%;">
     </td>
   </tr>
 </table>
